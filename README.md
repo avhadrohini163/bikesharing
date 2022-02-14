@@ -3,6 +3,8 @@
 This project is created to analyze New York bike sharing program Citi Bike in order to start similar company in Des Moines, Iowa.
 
 ## Results:
+Note: Please check the foloowing URL to see "NYC Bike Sharing" story:
+https://public.tableau.com/app/profile/rohini.avhad/viz/NYC_BikeSharing_Story/Story1?publish=yes
 ### Checkout Times for All Users:
 - Bikes were mostly used upto 30 minutes.
 ![TripDurationForAllUsers](https://user-images.githubusercontent.com/92752935/153731114-1fe206ac-5bc6-469c-80e6-637963836504.png)
